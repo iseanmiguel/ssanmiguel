@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ssanmiguel_loginandregister</string>
+    <string name="uname">username</string>
+    <string name="password">password</string>
+    <string name="regfullname">Full Name</string>
+    <string name="reguname">username</string>
+    <string name="regemail">email</string>
+    <string name="regpassword">password</string>
+    <string name="regretypepassword">retype password</string>
+</resources>
